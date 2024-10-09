@@ -41,6 +41,7 @@ Have a look at the `package.json` for all run scripts.
 - Extract URLs from text.
 - Input text and options saved locally.
 - Open tabs in random order.
+- 
 
 ## Permissions
 
